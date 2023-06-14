@@ -1,0 +1,12 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/1918192.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 800px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 300px;
+    top: 100px;
+    font-size: 8.3rem;
+}
