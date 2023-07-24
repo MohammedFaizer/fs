@@ -55,7 +55,7 @@ const calculate=(e)=>{
     <>
     
 
-        <h1>. . Faizu Mobile Eb Calculator 💕 . .</h1>
+        <h1>. . Faizu Mobile Eb Calculator  . .</h1>
         <input type='number' placeholder='Enter the Units' id='units' onChange={(e) => setUnit(Number(e.target.value))}></input>
         <br></br>
         <button type="submit" onClick={nullcond}>check</button>
