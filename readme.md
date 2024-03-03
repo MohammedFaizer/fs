@@ -1,4 +1,4 @@
-# Enhancing Cricket Game Using Virtual Reality
+# Enhancing Cricket Gameplay Using Virtual Reality
 
 ## Introduction
 
