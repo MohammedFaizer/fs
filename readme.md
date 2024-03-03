@@ -12,11 +12,15 @@ Welcome to the Virtual Reality Cricket Game in Unreal Engine! This project aims 
 - A computer capable of running Unreal Engine and VR applications
 - Minimum Graphic Card for Shader's Compilations (eg RTX 3050 )
 
-##BluePrint Links
+## BluePrint Links
+Since the game was developed in Unreal Engine, the use of node scripting or visual scripting is more apparent links given below.
+- **BP_Bat**: [https://blueprintue.com/blueprint/h58_v2ze/](https://blueprintue.com/blueprint/h58_v2ze/)
+
+
 
 ## Installation
 
-1. Download the project from the Drive Link : [https://drive.google.com/drive/folders/1ceqAL1JAcBztWXTznPjcQgtl116tFuxH?usp=drive_link](https://drive.google.com/drive/folders/1ceqAL1JAcBztWXTznPjcQgtl116tFuxH?usp=drive_link)
+1. Download the project from the Drive Link (25 Gb Zip) : [https://drive.google.com/drive/folders/1ceqAL1JAcBztWXTznPjcQgtl116tFuxH?usp=drive_link](https://drive.google.com/drive/folders/1ceqAL1JAcBztWXTznPjcQgtl116tFuxH?usp=drive_link)
 2. Unzip the File.
 3. Open the project in Unreal Engine.
 4. Ensure that your VR headset and motion controllers are connected and properly set up.
@@ -43,8 +47,9 @@ The game features a realistic cricket environment, including a stadium, players,
 ## Future Improvements
 
 - Implement more realistic physics for the ball and player movements.
-- Improve the AI for single-player mode.
+- Adding Animation to Fielders and Bowlers.
 - Replacing the Crowd with Niagra For Crowd simulation .
   
 
-## Mohammed Faizer Z (2022178028) & guided by Mr.H.Riasudheen. 
+## Done By
+Mohammed Faizer Z (2022178028) & guided by Mr.H.Riasudheen. 
